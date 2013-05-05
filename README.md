@@ -6,11 +6,9 @@ After getting the JSON data it decides whether one should wear sunglasses or not
 
 JSON response should look like the following:
 
-	```json
-	{
-		"values": {
-			"light": 781
-		}
-	}
-	
-	
+```json
+{
+  "values": {
+    "light": 781
+  }
+}	
